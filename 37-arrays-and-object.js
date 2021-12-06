@@ -24,5 +24,5 @@ let obj2 = new SomeClass(); // JavaScript
 let obj3 = { eid: 101, ename: 'Sonu', salary: 10.5 };
 let obj4 = { cid: 201, cname: 'aaa', address: { street: 'abc', pin: 123456 }, phones: [1234, 5678] };
 
-console.log(obj4);
+console.log(obj3);
 

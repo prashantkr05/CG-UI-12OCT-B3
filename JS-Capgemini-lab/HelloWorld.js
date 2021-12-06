@@ -1,3 +1,3 @@
 function sayHello(){
-    document.write("Hello World");
+    document.write("This text is displayed by Calling External function :Hello World");
 }
